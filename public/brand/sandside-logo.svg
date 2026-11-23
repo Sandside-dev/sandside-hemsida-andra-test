@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="title">
+  <title id="title">Sandside UF</title>
+  <path fill="#F25A24" d="M6 14a10 10 0 0 1 20 0H6Z"/>
+  <g fill="none" stroke="#201C18" stroke-linecap="round" stroke-width="1.35">
+    <path d="M6 19c1.25-1.2 2.5-1.2 3.75 0s2.5 1.2 3.75 0 2.5-1.2 3.75 0 2.5 1.2 3.75 0 2.5-1.2 3.75 0"/>
+    <path d="M6 22.5c1.25-1.2 2.5-1.2 3.75 0s2.5 1.2 3.75 0 2.5-1.2 3.75 0 2.5 1.2 3.75 0 2.5-1.2 3.75 0"/>
+    <path d="M6 26c1.25-1.2 2.5-1.2 3.75 0s2.5 1.2 3.75 0 2.5-1.2 3.75 0 2.5 1.2 3.75 0 2.5-1.2 3.75 0"/>
+  </g>
+</svg>
